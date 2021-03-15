@@ -1,2 +1,2 @@
 # Python
-Python basics from Code Academy
+This section contains my personal projects on Python
