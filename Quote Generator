@@ -1,5 +1,5 @@
 
-    print("Hey People! Welcome to Quote Generator")
+    print("Hey there! Welcome to Quote Generator")
     name=input("Enter your name ")
     age=int(input("Enter your age "))
     gender=input("Please mention your Gender(M/F) ")
